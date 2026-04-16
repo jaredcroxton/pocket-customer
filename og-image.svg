@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="heroBg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#15180A" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#0A0A0A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="limeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D4FF3B" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#D4FF3B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="coralGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF5F57" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#FF5F57" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="boltFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E9FF8F"/>
+      <stop offset="100%" stop-color="#B8E81C"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D4FF3B"/>
+      <stop offset="60%" stop-color="#B8E81C"/>
+      <stop offset="100%" stop-color="#B8E81C" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="barFillCoral" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF5F57"/>
+      <stop offset="100%" stop-color="#FF5F57" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#heroBg)"/>
+  <ellipse cx="300" cy="400" rx="500" ry="300" fill="url(#limeGlow)"/>
+  <ellipse cx="950" cy="180" rx="400" ry="260" fill="url(#coralGlow)"/>
+
+  <!-- Equalizer bars along the bottom -->
+  <g opacity="0.55">
+    <rect x="60"   y="520" width="18" height="80"  rx="5" fill="url(#barFill)"/>
+    <rect x="88"   y="480" width="18" height="120" rx="5" fill="url(#barFill)"/>
+    <rect x="116"  y="540" width="18" height="60"  rx="5" fill="url(#barFill)"/>
+    <rect x="144"  y="460" width="18" height="140" rx="5" fill="url(#barFill)"/>
+    <rect x="172"  y="500" width="18" height="100" rx="5" fill="url(#barFill)"/>
+    <rect x="200"  y="440" width="18" height="160" rx="5" fill="url(#barFillCoral)"/>
+    <rect x="228"  y="510" width="18" height="90"  rx="5" fill="url(#barFill)"/>
+    <rect x="256"  y="470" width="18" height="130" rx="5" fill="url(#barFill)"/>
+    <rect x="284"  y="530" width="18" height="70"  rx="5" fill="url(#barFill)"/>
+    <rect x="312"  y="450" width="18" height="150" rx="5" fill="url(#barFill)"/>
+    <rect x="340"  y="500" width="18" height="100" rx="5" fill="url(#barFill)"/>
+    <rect x="368"  y="420" width="18" height="180" rx="5" fill="url(#barFill)"/>
+    <rect x="396"  y="480" width="18" height="120" rx="5" fill="url(#barFillCoral)"/>
+    <rect x="424"  y="520" width="18" height="80"  rx="5" fill="url(#barFill)"/>
+    <rect x="452"  y="440" width="18" height="160" rx="5" fill="url(#barFill)"/>
+    <rect x="480"  y="500" width="18" height="100" rx="5" fill="url(#barFill)"/>
+    <rect x="508"  y="460" width="18" height="140" rx="5" fill="url(#barFill)"/>
+    <rect x="536"  y="530" width="18" height="70"  rx="5" fill="url(#barFill)"/>
+    <rect x="564"  y="410" width="18" height="190" rx="5" fill="url(#barFill)"/>
+    <rect x="592"  y="490" width="18" height="110" rx="5" fill="url(#barFillCoral)"/>
+    <rect x="620"  y="460" width="18" height="140" rx="5" fill="url(#barFill)"/>
+    <rect x="648"  y="520" width="18" height="80"  rx="5" fill="url(#barFill)"/>
+    <rect x="676"  y="430" width="18" height="170" rx="5" fill="url(#barFill)"/>
+    <rect x="704"  y="480" width="18" height="120" rx="5" fill="url(#barFill)"/>
+    <rect x="732"  y="500" width="18" height="100" rx="5" fill="url(#barFill)"/>
+    <rect x="760"  y="440" width="18" height="160" rx="5" fill="url(#barFillCoral)"/>
+    <rect x="788"  y="510" width="18" height="90"  rx="5" fill="url(#barFill)"/>
+    <rect x="816"  y="460" width="18" height="140" rx="5" fill="url(#barFill)"/>
+    <rect x="844"  y="500" width="18" height="100" rx="5" fill="url(#barFill)"/>
+    <rect x="872"  y="420" width="18" height="180" rx="5" fill="url(#barFill)"/>
+    <rect x="900"  y="480" width="18" height="120" rx="5" fill="url(#barFill)"/>
+    <rect x="928"  y="530" width="18" height="70"  rx="5" fill="url(#barFillCoral)"/>
+    <rect x="956"  y="450" width="18" height="150" rx="5" fill="url(#barFill)"/>
+    <rect x="984"  y="510" width="18" height="90"  rx="5" fill="url(#barFill)"/>
+    <rect x="1012" y="470" width="18" height="130" rx="5" fill="url(#barFill)"/>
+    <rect x="1040" y="540" width="18" height="60"  rx="5" fill="url(#barFill)"/>
+    <rect x="1068" y="490" width="18" height="110" rx="5" fill="url(#barFill)"/>
+    <rect x="1096" y="520" width="18" height="80"  rx="5" fill="url(#barFill)"/>
+    <rect x="1124" y="460" width="18" height="140" rx="5" fill="url(#barFillCoral)"/>
+  </g>
+
+  <!-- Top-left brand lockup -->
+  <g transform="translate(80, 72)">
+    <rect width="72" height="72" rx="18" fill="url(#boltFill)"/>
+    <path d="M41 10 L14 46 H25 L22 62 L50 26 H38 L41 10 Z" fill="#0A0A0A"/>
+    <text x="92" y="52"
+          font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-weight="800" font-size="36"
+          fill="#F5EADB"
+          letter-spacing="-0.5">POCKET CUSTOMER</text>
+  </g>
+
+  <!-- Main headline -->
+  <g transform="translate(80, 240)">
+    <text x="0" y="0"
+          font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-weight="900" font-size="104"
+          fill="#F5EADB"
+          letter-spacing="-4">STOP PRACTISING</text>
+    <text x="0" y="104"
+          font-family="'Instrument Serif', Georgia, 'Times New Roman', serif"
+          font-style="italic" font-size="120"
+          fill="#D4FF3B"
+          letter-spacing="-3">on real</text>
+    <text x="0" y="210"
+          font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-weight="900" font-size="104"
+          fill="#F5EADB"
+          letter-spacing="-4">CUSTOMERS.</text>
+  </g>
+
+  <!-- Bottom-right "Powered by performOS" chip -->
+  <g transform="translate(810, 540)">
+    <text x="0" y="0"
+          font-family="'JetBrains Mono', 'SF Mono', Menlo, monospace"
+          font-size="20" font-weight="500"
+          fill="#8A8A8A" letter-spacing="3">POWERED BY</text>
+    <text x="185" y="0"
+          font-family="'Instrument Serif', Georgia, serif"
+          font-style="italic" font-size="24"
+          fill="#FF5F57" letter-spacing="-0.5">performOS</text>
+  </g>
+</svg>
