@@ -25,19 +25,19 @@
   </g>
 
   <!-- Headline centered -->
-  <text x="600" y="280"
+  <text x="600" y="275"
         font-family="Archivo, 'Helvetica Neue', Arial, sans-serif"
-        font-weight="900" font-size="82"
+        font-weight="900" font-size="58"
         fill="#F5EADB" text-anchor="middle"
         letter-spacing="-2">STOP PRACTISING</text>
-  <text x="600" y="375"
+  <text x="600" y="355"
         font-family="'Instrument Serif', Georgia, serif"
-        font-style="italic" font-size="95"
+        font-style="italic" font-size="65"
         fill="#D4FF3B" text-anchor="middle"
         letter-spacing="-2">on real</text>
-  <text x="600" y="460"
+  <text x="600" y="435"
         font-family="Archivo, 'Helvetica Neue', Arial, sans-serif"
-        font-weight="900" font-size="82"
+        font-weight="900" font-size="58"
         fill="#F5EADB" text-anchor="middle"
         letter-spacing="-2">CUSTOMERS.</text>
 
