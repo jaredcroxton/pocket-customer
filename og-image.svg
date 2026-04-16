@@ -15,9 +15,9 @@
   <rect x="80" y="60" width="56" height="56" rx="14" fill="url(#ibg)"/>
   <text x="150" y="98" font-family="Archivo, sans-serif" font-weight="800" font-size="28" fill="#F5EADB">Pocket Customer</text>
 
-  <text x="80" y="240" font-family="Archivo, sans-serif" font-weight="900" font-size="62" fill="#F5EADB" letter-spacing="-2">STOP PRACTISING</text>
-  <text x="80" y="320" font-family="Georgia, serif" font-style="italic" font-size="68" fill="#D4FF3B" letter-spacing="-2">on real</text>
-  <text x="80" y="400" font-family="Archivo, sans-serif" font-weight="900" font-size="62" fill="#F5EADB" letter-spacing="-2">CUSTOMERS.</text>
+  <text x="80" y="280" font-family="Archivo, sans-serif" font-weight="900" font-size="62" fill="#F5EADB" letter-spacing="-2">STOP PRACTISING</text>
+  <text x="80" y="360" font-family="Georgia, serif" font-style="italic" font-size="68" fill="#D4FF3B" letter-spacing="-2">on real</text>
+  <text x="80" y="440" font-family="Archivo, sans-serif" font-weight="900" font-size="62" fill="#F5EADB" letter-spacing="-2">CUSTOMERS.</text>
 
   <g opacity="0.45">
     <rect x="80" y="480" width="14" height="90" rx="3" fill="#D4FF3B"/>
